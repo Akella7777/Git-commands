@@ -1,5 +1,4 @@
-# Git-commands
-# Шпаргалка по консольным командам Git
+# Команды Git
 <!-- 
 *   [Общее](https://github.com/cyberspacedk/Git-commands/tree/master/git#Общее)
 *   [Консольные команды](https://github.com/cyberspacedk/Git-commands/tree/master/git#Консольные-команды)
